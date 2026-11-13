@@ -70,7 +70,7 @@ Together, these workbooks demonstrate end-to-end proficiency in **BPO Operations
 4. **End-to-End MIS Automation:** Demonstrating how raw operational dumps (`Raw Data for Import.xlsx`) are systematically transformed through standalone formula templates (`Task 1.xlsx`), VBA scripts (`Task 2.xlsm`), and relational BI dashboards (`Task 3.xlsm`).
 
 ---
-## Inside Visuals for the Project;
+## Inside Visuals of the Project;
 
 <img width="2877" height="1688" alt="image" src="https://github.com/user-attachments/assets/30f08b61-edfa-43ca-8031-4cd4103ba6f8" />
 <img width="1636" height="1037" alt="image" src="https://github.com/user-attachments/assets/3bc9813a-b4a1-4e16-ba9c-03ceb877f678" />
