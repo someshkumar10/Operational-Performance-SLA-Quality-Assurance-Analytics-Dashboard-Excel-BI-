@@ -70,7 +70,16 @@ Together, these workbooks demonstrate end-to-end proficiency in **BPO Operations
 4. **End-to-End MIS Automation:** Demonstrating how raw operational dumps (`Raw Data for Import.xlsx`) are systematically transformed through standalone formula templates (`Task 1.xlsx`), VBA scripts (`Task 2.xlsm`), and relational BI dashboards (`Task 3.xlsm`).
 
 ---
+## Inside Visuals for the Project;
 
-## 🔒 Data Privacy & Local Security Notice
-* **Confidentiality:** All operational records, client account names, processor IDs, and quality audit metrics belong to a BPO environment and are maintained strictly for personal portfolio evaluation.
-* **Local Storage:** These 4 files reside locally on a secured PC, operate independently offline, and are strictly excluded from public distribution or AI model training.
+<img width="2877" height="1688" alt="image" src="https://github.com/user-attachments/assets/30f08b61-edfa-43ca-8031-4cd4103ba6f8" />
+<img width="1636" height="1037" alt="image" src="https://github.com/user-attachments/assets/3bc9813a-b4a1-4e16-ba9c-03ceb877f678" />
+<img width="1632" height="645" alt="image" src="https://github.com/user-attachments/assets/86bbf84e-0ea5-430e-a1d1-e8c0070d8f4a" />
+<img width="2817" height="897" alt="image" src="https://github.com/user-attachments/assets/b072fd6c-d54d-4ec1-9686-69cb0766f764" />
+<img width="2854" height="1326" alt="image" src="https://github.com/user-attachments/assets/af67bc2b-a676-452a-807e-5d810e60b096" />
+<img width="2864" height="1342" alt="image" src="https://github.com/user-attachments/assets/1fc78b4b-644e-4ccd-90ec-a145f1afd238" />
+
+
+
+
+
